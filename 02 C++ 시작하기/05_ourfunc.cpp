@@ -21,3 +21,10 @@ void simon(int n)
     using namespace std;
     cout << "Simon 왈, 발가락을 " << n << "번 두드려라." << endl;
 }
+
+/*
+Simon 왈, 발가락을 3번 두드려라.
+정수를 하나 고르시오: 10 
+Simon 왈, 발가락을 10번 두드려라.
+끝!
+*/
