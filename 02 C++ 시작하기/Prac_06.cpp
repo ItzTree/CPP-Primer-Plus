@@ -19,3 +19,8 @@ int ly_to_AU(double ly)
 {
     return ly * 63240;
 }
+
+/*
+광년 수: 4.2
+4.2 광년은 265608 AU입니다.
+*/
