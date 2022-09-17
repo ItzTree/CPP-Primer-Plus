@@ -25,3 +25,10 @@ void print_see()
 {
     std::cout << "See how they run" << std::endl;
 }
+
+/*
+Three blind mice
+Three blind mice
+See how they run
+See how they run
+*/
