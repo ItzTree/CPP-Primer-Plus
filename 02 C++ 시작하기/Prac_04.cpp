@@ -12,3 +12,8 @@ int main()
 
     return 0;
 }
+
+/*
+Enter your age: 29
+당신의 나이는 월수로 348입니다.
+*/
