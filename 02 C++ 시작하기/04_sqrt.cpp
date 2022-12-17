@@ -1,5 +1,7 @@
+// sqrt.cpp -- sqrt() 함수를 사용한다
+
 #include <iostream>
-#include <cmath>
+#include <cmath>                // 또는 math.h
 
 int main()
 {
@@ -21,7 +23,4 @@ int main()
 마루 면적을 평방피트 단위로 입력하시오: 1536
 사각형 마루라면 한 변이 39.1918피트에 상당합니다.
 멋지네요!
-
-<-- Content -->
-함수
 */
