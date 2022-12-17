@@ -1,3 +1,5 @@
+// getinfo.cpp -- 입력과 출력
+
 #include <iostream>
 
 int main()
@@ -7,7 +9,7 @@ int main()
     int carrots;
 
     cout << "당근을 몇 개나 가지고 있니?" << endl;
-    cin >> carrots;
+    cin >> carrots;         // C++ 입력
 
     cout << "여기 두 개가 더 있다. ";
     carrots = carrots + 2;
@@ -20,8 +22,4 @@ int main()
 당근을 몇 개나 가지고 있니?
 3
 여기 두 개가 더 있다. 이제 당근은 모두 5개이다.
-
-<-- Content -->
-cin
-cout에 의한 출력의 결합
 */
