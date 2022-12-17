@@ -1,6 +1,8 @@
+// convert.cpp -- 스톤을 파운드로 환산한다
+
 #include <iostream>
 
-int stonetolb(int);
+int stonetolb(int);         // 함수 원형
 
 int main()
 {
@@ -25,7 +27,4 @@ int stonetolb(int sts)
 /*
 체중을 스톤 단위로 입력하시오: 15
 15 스톤은 210 파운드입니다.
-
-<-- Content -->
-리턴값이 있는 함수
 */
